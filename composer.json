@@ -1,5 +1,5 @@
 {
-    "name": "rappasoft/laravel-helpers",
+    "name": "urb/laravel-helpers",
     "description": "Laravel Helpers for Non-Laravel Projects",
     "license": "MIT",
     "keywords": ["laravel", "helpers"],
@@ -7,6 +7,10 @@
         {
             "name": "Anthony Rappa",
             "email": "rappa819@gmail.com"
+        },
+        {
+            "name": "George Barba",
+            "email": "george@underratedbrilliance.com"
         }
     ],
     "require": {
